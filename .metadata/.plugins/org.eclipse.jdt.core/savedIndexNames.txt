@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\Ryan Shaw\Documents\GitHub\CustomForgedKnives\.metadata\.plugins\org.eclipse.jdt.core
+4176844687.index
