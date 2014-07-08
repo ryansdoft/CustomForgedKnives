@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	
+		<meta charset="ISO-8859-1">
+		<link rel="stylesheet" href="bootstrap.css">
+		<link rel="stylesheet" href="Main.css">
+		<title>CFK Cutlery Co.</title>
+	</head>
+	
+	<body>
+		
+		<div class="nav">
+			<div class="container">
+				<ul class="pull-left">
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Knives</a></li>
+					<li><a href="#">Stories</a></li>
+				</ul>
+				
+				<ul class="pull-right">
+					<li><a href="#">Sign Up</a></li>
+					<li><a href="#">Log In</a></li>
+					<li><a href="#">Help</a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="largeText">
+			<div class="container">
+				<h1>The Best Knives for the Best Price</h1>
+				<p>We make the best quality knives for unbeatable prices.</p>
+				<a href="#">Learn More</a>
+			</div>
+		</div>
+		
+		<div class="Browse">
+	        <div class="container">
+	            <h2>Browse Our Knives</h2>
+	            <p>Not sure which one you want, look at them all!</p>
+	            <div class="row">
+	                <div class="col-md-4">
+	                	<div class="thumbnail">
+                        	<img src="http://goo.gl/0sX3jq"/>
+                    	</div>
+                    	<div class="thumbnail">
+                        	<img src="http://goo.gl/an2HXY"/>
+                    	</div>
+	                </div>
+	                <div class="col-md-4">
+		                <div class="thumbnail">
+	                    	<img src="http://goo.gl/Av1pac"/>
+	                    </div>
+	                    <div class="thumbnail">
+	                    	<img src="http://goo.gl/vw43v1"/>
+	                    </div>
+	                </div>
+	                <div class="col-md-4">
+	                	<div class="thumbnail">
+                        	<img src="http://goo.gl/0Kd7UO"/>
+                    	</div>
+	                </div>
+	            </div>
+	        </div>
+    	</div>
+		
+		<div class="learnMore">
+			<div class="container">
+				<div class="row">
+				
+					<div class="col-md-4">
+						<h3>Our Knives</h3>
+						<p>See our knives in action.</p>
+						<p><a href="store">See one you like?</a></p>
+					</div>
+				
+					<div class="col-md-4">
+						<h3>The people who use the knives</h3>
+						<p>Read stories and watch video of people who have used our knives</p>
+						<p><a href="stories">Click here to watch videos</a></p>
+					</div>
+				
+					<div class="col-md-4">
+						<h3>Our Guarantee</h3>
+						<p>We guarantee our knives will last a lifetime.</p>
+						<p><a href="about">Click here to see more</a></p>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		
+	</body>
+</html>

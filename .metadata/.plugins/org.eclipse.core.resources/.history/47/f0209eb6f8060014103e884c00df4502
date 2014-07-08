@@ -1,0 +1,64 @@
+@CHARSET "ISO-8859-1";
+
+.nav a {
+	color: #5a5a5a;
+	font-size: 11px;
+	font-weight: bold;
+	padding: 14px 10px;
+	text-transform: uppercase;
+}
+
+.largeText {
+    height: 600px;
+    width: 1000px;
+   
+    background-image: url('http://goo.gl/04j7Nn');
+}
+
+.largeText h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.largeText p {
+    color: #fff;
+    font-size: 20px;
+}
+
+.learnMore {
+    background-color: #f7f7f7;
+}
+
+.learnMore h3 {
+    font-size: 18px;
+    font-weight: bold
+}
+
+.learnMore a {
+    color: #00b0ff;
+}
+
+.nav li {
+    display: inline;
+}
+
+.largeText .container {
+    position: relative;
+    top: 100px;
+}
+
+.browse {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.browse h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.browse p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
