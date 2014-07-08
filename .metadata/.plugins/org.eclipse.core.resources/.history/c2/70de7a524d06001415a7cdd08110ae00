@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>CFK Cutlery Co.</title>
+</head>
+<body>
+	
+	<div class="nav">
+		<div class="container">
+			<ul>
+				<li>Home</li>
+				<li>About</li>
+				<li>Knives</li>
+				<li>Stories</li>
+			</ul>
+			
+			<ul>
+				<li>Sign Up</li>
+				<li>Log In</li>
+				<li>Help</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div class="largeText">
+		<div class="container">
+			<h1>The Best Knives for the Best Price</h1>
+			<p>We make the best quality knives for unbeatable prices.</p>
+		</div>
+	</div>
+	
+	<div>
+		<h3>Our Knives</h3>
+		<p>See our knives in action.</p>
+		<p><a href="store">See one you like?</a></p>
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>CFK Cutlery Co.</title>
+</head>
+<body>
+	<div class="nav">
+		<div class="container">
+			<ul>
+				<li>Home</li>
+				<li>About</li>
+				<li>Knives</li>
+				<li>Stories</li>
+			</ul>
+			
+			<ul>
+				<li>Sign Up</li>
+				<li>Log In</li>
+				<li>Help</li>
+			</ul>
+		</div>
+	</div>
+	
+</body>
+</html>
