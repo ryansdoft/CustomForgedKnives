@@ -3,6 +3,8 @@
 	<head>
 	
 		<meta charset="ISO-8859-1">
+		<script src="jquery-1.11.1.js"></script>
+		<script type='text/javascript' src='Main.js'></script>
 		<link rel="stylesheet" href="bootstrap.css">
 		<link rel="stylesheet" href="Main.css">
 		<title>CFK Cutlery Co.</title>
@@ -28,15 +30,23 @@
 			</div>
 		</div>
 		
-		<div class="largeText">
-			<div class="container">
-				<h1>The Best Knives for the Best Price</h1>
-				<p>We make the best quality knives for unbeatable prices.</p>
-				<a href="#">Learn More</a>
-			</div>
+		<div id="slider">
+			<a href="#" class="control_next">>></a>
+			<a href="#" class="control_prev"><</a>
+				<ul>
+					<li style ="background-image: url('http://goo.gl/04j7Nn');"></li>
+					<li style ="background-image: url('http://goo.gl/04j7Nn');">SLIDE 2</li>
+					<li style ="background-image: url('http://goo.gl/04j7Nn');">SLIDE 3</li>
+					<li style ="background-image: url('http://goo.gl/04j7Nn');">SLIDE 4</li>
+				</ul>  
 		</div>
 		
-		<div class="Browse">
+		<div class="slider_option">
+			<input type="checkbox" id="checkbox">
+			<label for="checkbox">Autoplay Slider</label>
+		</div>
+		
+		<div class="browse">
 	        <div class="container">
 	            <h2>Browse Our Knives</h2>
 	            <p>Not sure which one you want, look at them all!</p>
