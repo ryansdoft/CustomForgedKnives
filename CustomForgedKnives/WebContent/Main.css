@@ -18,7 +18,7 @@
 .largeText {
 	margin-left: auto;
 	margin-right: auto;
-    height: 629px;
+    height: 654px;
     width: 1024px;
    	background-image: url('http://goo.gl/04j7Nn');
 }
@@ -63,9 +63,8 @@
 
 .browse {
     border-bottom: 1px solid #dbdbdb;
-    width: 1024px;
-    margin-left: auto;
-    margin-right: auto;
+	margin: auto;
+    position: relative;
 }
 
 .browse h2 {
@@ -111,7 +110,7 @@ html, body {
 	float: left;
 	padding: 0;
 	width: 1024px;
-	height: 629px;
+	height: 654px;
 }
 
 a.control_prev, a.control_next {
